@@ -1,0 +1,186 @@
+# NAME: US Banks
+# DESC: US banks, brokerages, credit cards and financial account services
+# UPDATED: 2026-07-11
+
+# JPMorgan Chase
+DOMAIN-SUFFIX,chase.com
+DOMAIN-SUFFIX,jpmorgan.com
+DOMAIN-SUFFIX,jpmorganchase.com
+DOMAIN-SUFFIX,creditcards.chase.com
+
+# Bank of America / Merrill
+DOMAIN-SUFFIX,bankofamerica.com
+DOMAIN-SUFFIX,bofa.com
+DOMAIN-SUFFIX,bac.com
+DOMAIN-SUFFIX,bac-assets.com
+DOMAIN-SUFFIX,merrill.com
+DOMAIN-SUFFIX,merrilledge.com
+DOMAIN-SUFFIX,ml.com
+DOMAIN-SUFFIX,mymerrill.com
+DOMAIN,chat.bankofamerica.com
+DOMAIN,sec1.liveperson.net
+
+# Wells Fargo
+DOMAIN-SUFFIX,wellsfargo.com
+DOMAIN-SUFFIX,wf.com
+DOMAIN-SUFFIX,wellsfargomedia.com
+
+# Citi
+DOMAIN-SUFFIX,citi.com
+DOMAIN-SUFFIX,citibank.com
+DOMAIN-SUFFIX,citicards.com
+DOMAIN-SUFFIX,online.citi.com
+
+# U.S. Bank
+DOMAIN-SUFFIX,usbank.com
+DOMAIN-SUFFIX,usbankreliacard.com
+
+# Capital One
+DOMAIN-SUFFIX,capitalone.com
+DOMAIN-SUFFIX,capitalonebank.com
+DOMAIN-SUFFIX,capitalone360.com
+DOMAIN-SUFFIX,capital.one
+DOMAIN-SUFFIX,shopwithcapitalone.com
+DOMAIN-KEYWORD,capitalone
+
+# PNC
+DOMAIN-SUFFIX,pnc.com
+DOMAIN-SUFFIX,pncbank.com
+
+# Truist
+DOMAIN-SUFFIX,truist.com
+DOMAIN-SUFFIX,bbt.com
+DOMAIN-SUFFIX,suntrust.com
+
+# TD Bank US
+DOMAIN-SUFFIX,tdbank.com
+DOMAIN-SUFFIX,td.com
+
+# American Express
+DOMAIN-SUFFIX,americanexpress.com
+DOMAIN-SUFFIX,amex.com
+DOMAIN-SUFFIX,aexp.com
+DOMAIN-SUFFIX,membershiprewards.com
+DOMAIN-SUFFIX,serve.com
+DOMAIN-SUFFIX,myserve.com
+DOMAIN-SUFFIX,bluebird.com
+DOMAIN-SUFFIX,mybluebird.com
+DOMAIN-KEYWORD,americanexpress
+DOMAIN-KEYWORD,amex
+
+# Discover
+DOMAIN-SUFFIX,discover.com
+DOMAIN-SUFFIX,discovercard.com
+
+# Schwab
+DOMAIN-SUFFIX,schwab.com
+DOMAIN-SUFFIX,schwabcdn.com
+DOMAIN-SUFFIX,schwabplan.com
+
+# Fidelity
+DOMAIN-SUFFIX,fidelity.com
+DOMAIN-SUFFIX,fidelityinvestments.com
+DOMAIN-SUFFIX,fidelityrewards.com
+DOMAIN-SUFFIX,netbenefits.com
+
+# Morgan Stanley / E*TRADE
+DOMAIN-SUFFIX,morganstanley.com
+DOMAIN-SUFFIX,ms.com
+DOMAIN-SUFFIX,etrade.com
+DOMAIN-SUFFIX,etrade.wallst.com
+
+# Goldman Sachs / Marcus / Apple Card
+DOMAIN-SUFFIX,goldmansachs.com
+DOMAIN-SUFFIX,gs.com
+DOMAIN-SUFFIX,marcus.com
+DOMAIN-SUFFIX,marcus.co
+
+# BNY Mellon / Pershing
+DOMAIN-SUFFIX,bnymellon.com
+DOMAIN-SUFFIX,pershing.com
+DOMAIN-SUFFIX,pershingadvisor.com
+
+# State Street
+DOMAIN-SUFFIX,statestreet.com
+
+# BMO / Bank of the West
+DOMAIN-SUFFIX,bmo.com
+DOMAIN-SUFFIX,bmoharris.com
+DOMAIN-SUFFIX,bankofthewest.com
+
+# USAA
+DOMAIN-SUFFIX,usaa.com
+DOMAIN-SUFFIX,usaa.net
+
+# HSBC US
+DOMAIN-SUFFIX,us.hsbc.com
+DOMAIN-SUFFIX,hsbc.com
+
+# First Citizens / CIT
+DOMAIN-SUFFIX,firstcitizens.com
+DOMAIN-SUFFIX,firstcitizensonline.com
+DOMAIN-SUFFIX,cit.com
+
+# Citizens
+DOMAIN-SUFFIX,citizensbank.com
+DOMAIN-SUFFIX,citizensbankonline.com
+
+# Huntington
+DOMAIN-SUFFIX,huntington.com
+DOMAIN-SUFFIX,huntingtonbank.com
+
+# KeyBank
+DOMAIN-SUFFIX,key.com
+DOMAIN-SUFFIX,keybank.com
+
+# Fifth Third
+DOMAIN-SUFFIX,53.com
+DOMAIN-SUFFIX,53rd.com
+DOMAIN-SUFFIX,fifththird.com
+
+# M&T Bank
+DOMAIN-SUFFIX,mtb.com
+DOMAIN-SUFFIX,mandtbank.com
+
+# Regions
+DOMAIN-SUFFIX,regions.com
+
+# Ally
+DOMAIN-SUFFIX,ally.com
+DOMAIN-SUFFIX,allybank.com
+
+# Synchrony
+DOMAIN-SUFFIX,synchrony.com
+DOMAIN-SUFFIX,synchronybank.com
+DOMAIN-SUFFIX,mysynchrony.com
+
+# Barclays US
+DOMAIN-SUFFIX,barclaycardus.com
+DOMAIN-SUFFIX,barclaysus.com
+
+# Credit unions
+DOMAIN-SUFFIX,navyfederal.org
+DOMAIN-SUFFIX,penfed.org
+DOMAIN-SUFFIX,alliantcreditunion.org
+
+# Fintech accounts / banking-like services
+DOMAIN-SUFFIX,sofi.com
+DOMAIN-SUFFIX,chime.com
+DOMAIN-SUFFIX,varomoney.com
+DOMAIN-SUFFIX,onefinance.com
+DOMAIN-SUFFIX,one.app
+DOMAIN-SUFFIX,robinhood.com
+DOMAIN-SUFFIX,webull.com
+
+# Payments and account-linking
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypalobjects.com
+DOMAIN-SUFFIX,venmo.com
+DOMAIN-SUFFIX,zellepay.com
+DOMAIN-SUFFIX,earlywarning.com
+DOMAIN-SUFFIX,plaid.com
+DOMAIN-SUFFIX,plaid.io
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,square.com
+DOMAIN-SUFFIX,cash.app
+DOMAIN-SUFFIX,block.xyz

@@ -1,0 +1,12 @@
+# NAME: Monzo
+# DESC: Monzo UK
+# UPDATED: 2026-07-11
+
+DOMAIN-SUFFIX,monzo.com
+DOMAIN-SUFFIX,monzo.me
+DOMAIN-SUFFIX,monzoapps.com
+DOMAIN-SUFFIX,api.monzo.com
+DOMAIN-SUFFIX,web.monzo.com
+DOMAIN-SUFFIX,community.monzo.com
+DOMAIN-SUFFIX,status.monzo.com
+DOMAIN-KEYWORD,monzo
