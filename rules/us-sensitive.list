@@ -1,5 +1,5 @@
 # NAME: US Sensitive
-# DESC: US banks, finance, identity, telecom, shopping, travel, government and account-sensitive services. Excludes streaming/video/download-heavy services.
+# DESC: US finance, identity, telecom, shopping, travel, government, insurance and other home-IP-sensitive services. Excludes existing dedicated strategy groups and video/download-heavy services.
 # UPDATED: 2026-07-11
 
 # Banks / Cards / Brokerages
@@ -240,22 +240,7 @@ DOMAIN-SUFFIX,xfinity.com
 DOMAIN-SUFFIX,spectrum.net
 DOMAIN-SUFFIX,cox.com
 
-# General US account services, not video-heavy
-DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,google.com
-DOMAIN-SUFFIX,gmail.com
-DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,outlook.com
-DOMAIN-SUFFIX,office.com
-DOMAIN-SUFFIX,linkedin.com
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,dropbox.com
+# Password managers / security accounts
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,lastpass.com
 DOMAIN-SUFFIX,bitwarden.com
-DOMAIN-SUFFIX,notion.so
-DOMAIN-SUFFIX,slack.com
-DOMAIN-SUFFIX,zoom.us

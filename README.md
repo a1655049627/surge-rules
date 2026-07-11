@@ -6,7 +6,7 @@ Personal Surge external rule sets.
 
 | File | Suggested policy | Scope |
 | --- | --- | --- |
-| `rules/us-sensitive.list` | `家宽` | Broad US sensitive/account services excluding video/download-heavy services |
+| `rules/us-sensitive.list` | `家宽` | Broad US sensitive/account services, excluding existing dedicated strategy groups and video/download-heavy services |
 | `rules/us-banks.list` | `家宽` | Focused US banks, brokerages, cards and payments |
 | `rules/us-finance.list` | `家宽` | US banks, cards, payments, US mobile/account services |
 | `rules/binance.list` | `DIRECT` or selected crypto policy | Binance and related services |
